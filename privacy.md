@@ -5,7 +5,7 @@
 
 This Privacy Policy describes how Mitady ("we," "our," "the app") collects, uses, and protects your personal information when you use our bill-splitting mobile application.
 
-Mitady is developed by Antonio Mass, based in Mexico. If you have any questions or concerns about this policy or your data, contact us at **[antoniomassencinas@gmail.com]**.
+Mitady is developed by Antonio Mass, based in Mexico. If you have any questions or concerns about this policy or your data, contact us at **antoniomassencinas@gmail.com**.
 
 ---
 
@@ -92,7 +92,7 @@ California residents have the right to know what personal information we collect
 ### For users in Mexico (LFPDPPP)
 You have ARCO rights (Acceso, Rectificación, Cancelación, Oposición) under the Ley Federal de Protección de Datos Personales en Posesión de los Particulares. To exercise these rights, contact us at the email below.
 
-To exercise any of these rights, email **[antoniomassencinas@gmail.com]**. We respond within 30 days.
+To exercise any of these rights, email **antoniomassencinas@gmail.com**. We respond within 30 days.
 
 ---
 
@@ -133,6 +133,5 @@ This policy is governed by the laws of Mexico. Disputes will be resolved in the 
 For any question about this policy or your personal data:
 
 **Antonio Mass**
-Email: [[antoniomassencinas@gmail.com]](mailto:[antoniomassencinas@gmail.com])
-
+Email: **antoniomassencinas@gmail.com**
 We aim to respond within 5 business days.
